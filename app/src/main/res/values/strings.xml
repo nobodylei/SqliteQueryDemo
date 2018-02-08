@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqliteQueryDemo</string>
+    <string name="sql_create">创建数据库并且插入测试数据</string>
+    <string name="sql_query">SQL语句查询</string>
+</resources>
